@@ -13,3 +13,18 @@ tweets as related to real disasters or not. The nuanced and context-dependent na
 where terms like “fire” or “flood” may be used metaphorically, adds complexity to the task. The 
 model must reliably discern the true intent behind the language used. 
 
+# Objectives 
+
+# 1. Classification Model Development: Build a machine learning model to classify tweets as 
+disaster-related or not. 
+
+# 2. Accuracy and Precision: Ensure high accuracy and precision in predictions to minimize false 
+alarms and optimize disaster response. 
+
+# 3. Robustness: Design a model resilient to language variations such as slang, abbreviations, and 
+cultural nuances. 
+
+# 4. Scalability: Create a scalable system capable of processing large volumes of tweets in real
+time.
+
+
