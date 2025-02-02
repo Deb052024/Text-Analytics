@@ -28,3 +28,23 @@ cultural nuances.
 time.
 
 
+![image](https://github.com/user-attachments/assets/e22b6639-45f7-4e26-8561-790c324809e0)
+
+![image](https://github.com/user-attachments/assets/b42a17c8-c9bb-44cc-9995-bf9f87e6879a)
+
+![image](https://github.com/user-attachments/assets/c7e2aafc-ff33-4cf8-bf6f-437676a9908e)
+
+
+![image](https://github.com/user-attachments/assets/7550cb62-e0bb-4019-a966-2514eb3a695e)
+
+
+![image](https://github.com/user-attachments/assets/081e45a5-36bb-4ba5-8987-ad1213e1b1b0)
+
+
+
+
+
+
+
+
+
